@@ -1,7 +1,3 @@
-# ProjectSamples
-
-
-
 # Real Time Biome Generation
 High Performance Real Time Biome Generation/Alteration using Instanced Meshes.
 
