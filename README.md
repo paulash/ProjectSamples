@@ -8,7 +8,7 @@ A mulitplayer server authoritative inventory system with moddable items that con
 Vehicles that allow for multiple players to ride, one as the pilot and four others as passangers.
 Uses the Gameplay Ability System to give abilities to the player that they are only allowed to use while mounted to there seat or piloting.
 
-# Multiplayer Carriable Attachable Packages
+# Multiplayer Carriable Packages
 Packages that the player can pick up and carry on there back, packages grant an ability via the Gameplay Abilit System. Packages can be dropped on the ground or 'socketed' into other actors that extend the CarriableSocket class.
 Battery Socket and Package provided as an example, the battery can be charged at a socket, then used in vehicles or structures to power them.
 
